@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-bootstrap5",
+  "version": "1.0.0",
+  "description": "Portfolio avec Bootstrap5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glucinium/BASICs-Bootstrap-5-Portfolio-.git"
+  },
+  "author": "Guillaume Larroque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glucinium/BASICs-Bootstrap-5-Portfolio-/issues"
+  },
+  "homepage": "https://github.com/glucinium/BASICs-Bootstrap-5-Portfolio-#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
